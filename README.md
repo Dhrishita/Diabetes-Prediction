@@ -49,10 +49,9 @@ Once the chatbot is running, you can interact with it via the command line or a 
 3. Evaluate the model:
    ```bash
    python evaluate_model.py
-   
-4.Use the model to make predictions:
-  ```bash
-  python predict.py
+4. Use the model to make predictions:
+   ```bash
+   python predict.py
 
 ## Contact
 If you have any questions or suggestions, feel free to open an issue or contact:

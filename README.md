@@ -26,7 +26,7 @@ This project aims to predict the likelihood of a person having diabetes based on
 ## Dataset
 The dataset used in this project contains samples from 768 patients, each with 22 features that are used for prediction. The dataset was obtained from Kaggle. The key feature to be predicted is the "Outcome" where 0 indicates no diabetes and 1 indicates diabetes.
 
-You can access the dataset here: [Diabetes Dataset on Kaggle](https://www.kaggle.com/datasets/your-dataset-link)
+You can access the dataset here: [Diabetes Dataset on Kaggle](https://www.kaggle.com/search?q=diabetes+dataset)
 
 ## Methodology
 1. Data Preprocessing:
